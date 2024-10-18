@@ -1,0 +1,2 @@
+# imetu-cgu
+cgu imetu
